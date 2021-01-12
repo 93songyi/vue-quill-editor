@@ -1,6 +1,6 @@
 # vue-quill-editor
 
-> 关于vue-quill-editor的使用
+> 关于富文本 其中包含Quill.js 以及vue-quill-editor 以及扩展了支持图片 表单 以及其他插件的使用
 
 ## Build Setup
 
